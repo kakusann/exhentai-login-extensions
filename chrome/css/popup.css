@@ -1,0 +1,9 @@
+body {
+	width: 300px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#errorResult {
+	color: red;
+}
