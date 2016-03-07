@@ -1,0 +1,1 @@
+Even though I'll live forever, one day I might stop updating this. To ease the headaches of future addon developers (if there will be any?) I'm releasing the sources to the public.
